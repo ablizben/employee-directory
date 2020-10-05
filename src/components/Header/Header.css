@@ -1,0 +1,9 @@
+.header {
+    padding: 30px 0;
+    color: white;
+    background-color: #82b3ff;
+    width: 100%;
+    text-align: center;
+    border-bottom: 10px solid #82b3ff;
+    margin-bottom: 10px;
+}

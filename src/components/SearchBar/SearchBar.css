@@ -1,0 +1,17 @@
+.searchbox button{
+    border: 1px solid black;
+    margin: 10;
+    font-family: 'Cormorant', serif;
+    font-weight: bold;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+
+
+
+.searchbox button:hover {
+    background-color: #82b3ff;
+    color:white;
+}
